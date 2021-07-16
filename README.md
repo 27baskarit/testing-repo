@@ -1,4 +1,4 @@
-# Ionic ecommerce app UI
+# Ionic ecommerce app UI 
 
 ## Pages Included
 
